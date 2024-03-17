@@ -1,0 +1,12 @@
+body {
+  background-color: #eee;
+}
+
+.navbar-brand img {
+  max-width: 60px;
+}
+
+body .bg-redDarkColor {
+  background: #e90202 !important;
+  color: #fff;
+}
